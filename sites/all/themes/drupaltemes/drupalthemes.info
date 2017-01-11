@@ -1,0 +1,41 @@
+name = Drupalthemes
+description = drupalthemes - Responsive HTML5 OnePage Drupal Theme (tel:09384363798)
+core = 7.x
+version = 1.1
+
+
+regions[menu] = Menu
+regions[content] = Content
+regions[slider] = Slider
+regions[front-text] = Front-text
+regions[social] = Social
+
+
+
+
+
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/bootstrap-theme.min.css
+stylesheets[all][] = css/font-awesome.min.css
+stylesheets[all][] = css/main.css
+stylesheets[all][] = css/owl.carousel.min.css
+stylesheets[all][] = css/owl.theme.default.min.css
+
+
+
+
+
+
+
+scripts[] = 'js/bootstrap.min.js'
+scripts[] = 'js/jquery-3.1.0.min.js'
+scripts[] = 'js/main.js'
+scripts[] = 'js/owl.carousel.min.js'
+
+
+
+
+; Information added by drupalthemes.ir packaging script on 2016-06-12
+version = "7.52"
+project = "drupal"
+datestamp = "09384363798"
